@@ -1,3 +1,3 @@
 # first repo: curso
-![./james.jpeg](kkkkkkkkkkkkkkkkkkkkk)
+![james.jpeg](kkkkkkkkkkkkkkkkkkkkk)
 exemplo do curso de git.
